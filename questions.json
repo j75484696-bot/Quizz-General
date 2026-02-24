@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "title": "General Knowledge Quiz",
+    "subtitle": "20 questions · 6 categories",
+    "categories": ["Science", "History", "Geography", "Pop Culture", "Sports", "Language"]
+  },
+  "questions": [
+    {
+      "id": 1, "cat": "Science", "diff": 1,
+      "prompt": "What is the chemical symbol for water?",
+      "options": ["HO", "H₂O", "H₂O₂", "OH"],
+      "answer": 1,
+      "fact": "Water's formula H₂O means two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "id": 2, "cat": "Science", "diff": 2,
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": ["Magnetism", "Nuclear force", "Gravity", "Electrostatic force"],
+      "answer": 2,
+      "fact": "Gravity is described by Newton's law of universal gravitation — every mass attracts every other mass."
+    },
+    {
+      "id": 3, "cat": "Science", "diff": 2,
+      "prompt": "How many bones are in the adult human body?",
+      "options": ["186", "206", "216", "256"],
+      "answer": 1,
+      "fact": "Babies are born with around 270 bones; many fuse together as we grow, leaving 206 by adulthood."
+    },
+    {
+      "id": 4, "cat": "Science", "diff": 3,
+      "prompt": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+      "answer": 2,
+      "fact": "Mitochondria produce ATP (adenosine triphosphate), the cell's main energy currency, through cellular respiration."
+    },
+    {
+      "id": 5, "cat": "History", "diff": 1,
+      "prompt": "In what year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": 2,
+      "fact": "WWII ended in 1945 — V-E Day (May 8) marked victory in Europe, and V-J Day (September 2) marked Japan's surrender."
+    },
+    {
+      "id": 6, "cat": "History", "diff": 2,
+      "prompt": "Which ancient wonder of the world still stands today?",
+      "options": ["Colossus of Rhodes", "Lighthouse of Alexandria", "Great Pyramid of Giza", "Hanging Gardens of Babylon"],
+      "answer": 2,
+      "fact": "The Great Pyramid of Giza is the oldest and only surviving wonder of the ancient world, built around 2560 BC."
+    },
+    {
+      "id": 7, "cat": "History", "diff": 2,
+      "prompt": "Who was the first President of the United States?",
+      "options": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+      "answer": 3,
+      "fact": "George Washington was inaugurated on April 30, 1789, in New York City, the nation's first capital."
+    },
+    {
+      "id": 8, "cat": "History", "diff": 3,
+      "prompt": "The Berlin Wall fell in which year?",
+      "options": ["1987", "1988", "1989", "1991"],
+      "answer": 2,
+      "fact": "The Berlin Wall fell on November 9, 1989, after East Germany opened its borders — a pivotal moment in ending the Cold War."
+    },
+    {
+      "id": 9, "cat": "Geography", "diff": 1,
+      "prompt": "What is the largest continent by area?",
+      "options": ["Africa", "South America", "Asia", "North America"],
+      "answer": 2,
+      "fact": "Asia covers about 44.6 million km² — roughly 30% of Earth's total land area and home to 60% of the world's population."
+    },
+    {
+      "id": 10, "cat": "Geography", "diff": 1,
+      "prompt": "Which country has the longest coastline in the world?",
+      "options": ["Australia", "Russia", "Canada", "Norway"],
+      "answer": 2,
+      "fact": "Canada's coastline stretches approximately 202,080 km, largely thanks to its thousands of islands and inlets."
+    },
+    {
+      "id": 11, "cat": "Geography", "diff": 2,
+      "prompt": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "answer": 3,
+      "fact": "Canberra was purpose-built as a compromise between Sydney and Melbourne. It became the capital in 1913."
+    },
+    {
+      "id": 12, "cat": "Geography", "diff": 3,
+      "prompt": "The Amazon River flows primarily through which country?",
+      "options": ["Colombia", "Peru", "Venezuela", "Brazil"],
+      "answer": 3,
+      "fact": "About 60% of the Amazon River and rainforest lies within Brazil. It is the world's largest river by water volume."
+    },
+    {
+      "id": 13, "cat": "Pop Culture", "diff": 1,
+      "prompt": "Which film franchise features the character 'Jack Sparrow'?",
+      "options": ["The Mummy", "Pirates of the Caribbean", "Hook", "Master and Commander"],
+      "answer": 1,
+      "fact": "Captain Jack Sparrow, played by Johnny Depp, debuted in Pirates of the Caribbean: The Curse of the Black Pearl (2003)."
+    },
+    {
+      "id": 14, "cat": "Pop Culture", "diff": 2,
+      "prompt": "In 'The Lion King', what is the name of Simba's father?",
+      "options": ["Rafiki", "Scar", "Mufasa", "Zazu"],
+      "answer": 2,
+      "fact": "Mufasa, voiced by James Earl Jones in the 1994 original, is considered one of Disney's most iconic characters."
+    },
+    {
+      "id": 15, "cat": "Pop Culture", "diff": 3,
+      "prompt": "Which artist has the most Grammy wins of all time?",
+      "options": ["Beyoncé", "Georg Solti", "Paul Simon", "Michael Jackson"],
+      "answer": 1,
+      "fact": "Beyoncé holds the record for most Grammy wins with 32, surpassing classical conductor Georg Solti's 31."
+    },
+    {
+      "id": 16, "cat": "Sports", "diff": 1,
+      "prompt": "How many players are on a standard soccer (football) team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 2,
+      "fact": "Each team fields 11 players — one goalkeeper and 10 outfield players. The Laws of the Game set this at a minimum of 7."
+    },
+    {
+      "id": 17, "cat": "Sports", "diff": 2,
+      "prompt": "In which sport would you perform a 'slam dunk'?",
+      "options": ["Volleyball", "Water polo", "Basketball", "Handball"],
+      "answer": 2,
+      "fact": "The slam dunk was popularized in the NBA and is considered one of the most exciting plays in basketball."
+    },
+    {
+      "id": 18, "cat": "Sports", "diff": 3,
+      "prompt": "Which country won the first FIFA World Cup in 1930?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+      "answer": 2,
+      "fact": "Uruguay hosted and won the inaugural FIFA World Cup, defeating Argentina 4–2 in the final in Montevideo."
+    },
+    {
+      "id": 19, "cat": "Language", "diff": 1,
+      "prompt": "How many letters are in the English alphabet?",
+      "options": ["24", "25", "26", "27"],
+      "answer": 2,
+      "fact": "The English alphabet has 26 letters. The word 'alphabet' itself comes from the first two Greek letters: alpha and beta."
+    },
+    {
+      "id": 20, "cat": "Language", "diff": 2,
+      "prompt": "What is the most widely spoken language in the world by total speakers?",
+      "options": ["Spanish", "Mandarin Chinese", "English", "Hindi"],
+      "answer": 2,
+      "fact": "English is the most widely spoken language overall when counting both native and non-native speakers — roughly 1.5 billion people."
+    }
+  ]
+}
